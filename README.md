@@ -32,7 +32,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***She/Her*** or ***Developer***😉 <br>
-✔ I’m currently Developing **QUARTO_GAME** using C#<br>
+✔ I’m currently Developing **Websites** using Angular<br>
 ✔ I’m currently learning **AngularJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
